@@ -13,7 +13,7 @@
 ---
 
 
-Bem vido por aqui!
+Bem vindo por aqui!
 
 Fique à vontade para consultar os projetos, entrar em contato para tirar qualquer dúvida ou pedir ajuda com o seu projeto. Eu me formei em Marketing alguns anos atrás, me
 aproximei bastante da área de Designer Gráfico onde acabo atuando como freelancer. Meu último emprego formal foi com vendas, inclusive descobri que adoro trabalhar com
