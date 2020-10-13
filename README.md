@@ -13,6 +13,5 @@
 Bem vido por aqui!
 
 Fique à vontade para consultar os projetos, entrar em contato para tirar qualquer dúvida ou pedir ajuda com o seu projeto. Eu me formei em Marketing alguns anos atrás, me
-aproximei bastante da área de Designer Grafico onde acabo atuando como freelancer. Meu último emprego formal foi com vendas, inclusive descobri que adoro trabalhar com
-pessoas, mas acabei saindo para tentar algo novo.. Desde então estou me aventurando no mundo da programação, descobrindo e aprendendo coisas novas todos os dias! O que
-inclui me aventurar em algumas game jam de vez em quando, o que é muito trabalhoso, mas também divertido pra quem passa tanto tempo jogando.
+aproximei bastante da área de Designer Gráfico onde acabo atuando como freelancer. Meu último emprego formal foi com vendas, inclusive descobri que adoro trabalhar com
+pessoas, mas acabei saindo para tentar algo novo.. Desde então estou me aventurando no mundo da programação na 42 São Paulo, onde descobro e aprendendo coisas novas todos os dias ~bem clichê eu sei~. O que inclui me aventurar em algumas game jam de vez em quando, o que é muito trabalhoso, mas também divertido pra quem passa tanto tempo jogando.
